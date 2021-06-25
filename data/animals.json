@@ -135,6 +135,15 @@
         ""
       ],
       "id": "13"
+    },
+    {
+      "name": "gina",
+      "species": "tacocat",
+      "diet": "carnivore",
+      "personalityTraits": [
+        "loving"
+      ],
+      "id": "14"
     }
   ]
 }
